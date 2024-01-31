@@ -1,0 +1,9 @@
+[
+  {"income":  1950000, "rate":  5, "deduction":       0},
+  {"income":  3300000, "rate": 10, "deduction":   97500},
+  {"income":  6950000, "rate": 20, "deduction":  427500},
+  {"income":  9000000, "rate": 23, "deduction":  636000},
+  {"income": 18000000, "rate": 33, "deduction": 1536000},
+  {"income": 40000000, "rate": 40, "deduction": 2796000},
+  {"income":        0, "rate": 45, "deduction": 4796000}
+]

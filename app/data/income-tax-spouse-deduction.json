@@ -1,0 +1,6 @@
+[
+  {"annualIncome":  9000000, "deduction": 380000},
+  {"annualIncome":  9500000, "deduction": 260000},
+  {"annualIncome": 10000000, "deduction": 130000},
+  {"annualIncome":        0, "deduction":      0}
+]
